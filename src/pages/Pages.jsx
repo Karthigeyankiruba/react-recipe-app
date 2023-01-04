@@ -1,7 +1,6 @@
-import { AnimatePresence } from "framer-motion";
+
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Header from "../components/Header";
 import Cuisine from "./Cuisine";
 import Home from "./Home";
 import Receipe from "./Recipe";
